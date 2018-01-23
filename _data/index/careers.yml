@@ -27,3 +27,31 @@
     detail: Ads Integrity
     i18n: company_a_job
   icon: fa-plus-square
+  
+- name:
+    detail: Accenture @ Facebook
+    i18n: company_a
+  desc:
+    detail: I worked at Accenture @ Facebook ...
+    i18n: company_a_desc
+  date:
+    detail: Nov. 2017- Present
+    i18n: company_a_date
+  job:
+    detail: Ads Integrity
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Accenture @ Facebook
+    i18n: company_a
+  desc:
+    detail: I worked at Accenture @ Facebook ...
+    i18n: company_a_desc
+  date:
+    detail: Nov. 2017- Present
+    i18n: company_a_date
+  job:
+    detail: Ads Integrity
+    i18n: company_a_job
+  icon: fa-plus-square
