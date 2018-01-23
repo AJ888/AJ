@@ -18,12 +18,26 @@
     detail: Greenstream International 
     i18n: company_b
   desc:
-    detail: I worked at Company Greenstream International ...
+    detail: I worked at Greenstream International ...
     i18n: company_b_desc
   date:
     detail: Feb. 2017 - Nov-2017
     i18n: company_b_date
   job:
     detail: Repair Tech.
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Rainforest Partnership  
+    i18n: company_b
+  desc:
+    detail: I worked at Rainforest Partnership ...
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2016 - Aug-2017
+    i18n: company_b_date
+  job:
+    detail: Web Developer (Volunteer).
     i18n: company_b_job
   icon: fa-plus-square
