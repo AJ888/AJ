@@ -15,43 +15,43 @@
   icon: fa-plus-square
   
 - name:
-    detail: Accenture @ Facebook
+    detail: GreenStream International
     i18n: company_a
   desc:
-    detail: I worked at Accenture @ Facebook ...
+    detail: I worked at GreenStream International ...
     i18n: company_a_desc
   date:
-    detail: Nov. 2017- Present
+    detail: Feb. 2017- Nov. 2017
     i18n: company_a_date
   job:
-    detail: Ads Integrity
+    detail: Repair Tech.
     i18n: company_a_job
   icon: fa-plus-square
   
 - name:
-    detail: Accenture @ Facebook
+    detail: Rainforest Partnership
     i18n: company_a
   desc:
-    detail: I worked at Accenture @ Facebook ...
+    detail: I worked at Rainforest Partnership ...
     i18n: company_a_desc
   date:
-    detail: Nov. 2017- Present
+    detail: Aug. 2016- Aug. 2017
     i18n: company_a_date
   job:
-    detail: Ads Integrity
+    detail: Web Developer (Volunteer)
     i18n: company_a_job
   icon: fa-plus-square
   
 - name:
-    detail: Accenture @ Facebook
+    detail: HostGator
     i18n: company_a
   desc:
-    detail: I worked at Accenture @ Facebook ...
+    detail: I worked at HostGator ...
     i18n: company_a_desc
   date:
-    detail: Nov. 2017- Present
+    detail: Jun. 2015- Sep. 2015
     i18n: company_a_date
   job:
-    detail: Ads Integrity
+    detail: Junior System Administartor 
     i18n: company_a_job
   icon: fa-plus-square
