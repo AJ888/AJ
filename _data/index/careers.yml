@@ -14,7 +14,7 @@
     i18n: company_a_job
   icon: fa-plus-square
 
-- name:
+ - name:
     detail: Greenstream International 
     i18n: company_b
   desc:
@@ -27,7 +27,7 @@
     detail: Repair Tech.
     i18n: company_b_job
   icon: fa-plus-square
-  - name:
+   - name:
     detail: Accenture @ Facebook
     i18n: company_a
   desc:
@@ -41,7 +41,7 @@
     i18n: company_a_job
   icon: fa-plus-square
 
-- name:
+ - name:
     detail: Greenstream International 
     i18n: company_b
   desc:
