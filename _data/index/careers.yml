@@ -13,6 +13,7 @@
     detail: Ads Integrity
     i18n: company_a_job
   icon: fa-plus-square
+  
 - name:
     detail: Accenture @ Facebook
     i18n: company_a
