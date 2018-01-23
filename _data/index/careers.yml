@@ -13,31 +13,16 @@
     detail: Ads Integrity
     i18n: company_a_job
   icon: fa-plus-square
-
 - name:
-    detail: Greenstream International 
-    i18n: company_b
+    detail: Accenture @ Facebook
+    i18n: company_a
   desc:
-    detail: I worked at Greenstream International ...
-    i18n: company_b_desc
+    detail: I worked at Accenture @ Facebook ...
+    i18n: company_a_desc
   date:
-    detail: Feb. 2017 - Nov-2017
-    i18n: company_b_date
+    detail: Nov. 2017- Present
+    i18n: company_a_date
   job:
-    detail: Repair Tech.
-    i18n: company_b_job
-  icon: fa-plus-square
-  
- - name:
-    detail: Greenstream International 
-    i18n: company_b
-  desc:
-    detail: I worked at Greenstream International ...
-    i18n: company_b_desc
-  date:
-    detail: Feb. 2017 - Nov-2017
-    i18n: company_b_date
-  job:
-    detail: Repair Tech.
-    i18n: company_b_job
+    detail: Ads Integrity
+    i18n: company_a_job
   icon: fa-plus-square
