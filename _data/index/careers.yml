@@ -27,3 +27,17 @@
     detail: Repair Tech.
     i18n: company_b_job
   icon: fa-plus-square
+  
+  - |:
+    detail: Greenstream International 
+    i18n: company_b
+  desc:
+    detail: I worked at Greenstream International ...
+    i18n: company_b_desc
+  date:
+    detail: Feb. 2017 - Nov-2017
+    i18n: company_b_date
+  job:
+    detail: Repair Tech.
+    i18n: company_b_job
+  icon: fa-plus-square
