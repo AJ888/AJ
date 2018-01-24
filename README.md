@@ -61,13 +61,11 @@ I use [Disqus](https://disqus.com/) to realize comment. You should set disqus_sh
 
 I use [AddToAny](https://www.addtoany.com/) to share my blog on other social network platform. You can go to this website to custom your share buttons and paste code at `_includes/share.html`.
 
-![share](https://github.com/jarrekk/Jalpc/raw/master/readme_files/share.png)
 
 ## Search engines
 
 I use javascript to realize blog search,you can double click `Ctrl` or click the icon at lower right corner of the page,the detail you can got to this [repository](https://github.com/androiddevelop/jekyll-search). Just use it.
 
-![search](https://github.com/jarrekk/Jalpc/raw/master/readme_files/search.gif)
 
 ## Compress CSS and JS files
 
@@ -82,50 +80,4 @@ I use [UglifyJS2](https://github.com/mishoo/UglifyJS2), [clean-css](https://gith
 OR
 
 Edit CSS files at `_sass` folder.
-
-# Put in a Jalpc Plug
-
-If you want to give credit to the Jalpc theme with a link to my personal website <http://www.jarrekk.com>, that'd be awesome. No worries if you don't.
-
-# Upgrading Jalpc
-
-Jalpc is always being improved by its users, so sometimes one may need to upgrade.
-
-## Ensure there's an upstream remote
-
-If `git remote -v` doesn't have an upstream listed, you can do the following to add it:
-
-```
-git remote add upstream https://github.com/jarrekk/Jalpc.git
-```
-
-## Pull in the latest changes
-
-```
-git pull upstream gh-pages
-```
-
-There may be merge conflicts, so be sure to fix the files that git lists if they occur. That's it!
-
-# Todo
-- [ ] `jekyll server --watch` mode need to use original CSS/JS files
-- [ ] User can customise index page's section title.
-- [x] Non-github projects also have links.
-- [ ] Add some custom color themes for selection(Nav bar, background, words, dominant hue).
-
-# Donate Jalpc
-If this project let you enjoy your blog time, you can give me a cup of coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/jarrekk)
-
-# Wiki
-
-* [Multilingual Page](https://github.com/jarrekk/Jalpc/wiki/Multilingual-Page)
-* [How to add posts](https://github.com/jarrekk/Jalpc/wiki/How-to-add-posts)
-* [Change Log](https://github.com/jarrekk/Jalpc/wiki/Change-Log)
-* [Contributors](https://github.com/jarrekk/Jalpc/wiki/Contributors)
-* [Thanks to the following](https://github.com/jarrekk/Jalpc/wiki/Thanks-to-the-following)
-
-# Ad
-[Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
 
