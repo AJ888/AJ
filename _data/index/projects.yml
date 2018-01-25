@@ -2,10 +2,10 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name : IFPWAFCAD
+- name: IFPWAFCAD
   i18n: IFPWAFCAD
   gh_user: AJ888
-  repo : IFPWAFCAD
+  repo: IFPWAFCAD
   img: /static/assets/img/landing/boot2.png
   desc: This project is my project. Web application project used Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
 
@@ -28,14 +28,14 @@
   gh_user: AJ888
   repo : SuperMarket
   img: /static/assets/img/landing/python.png
-  desc: This project is my project. Stock dictonary for supermarket , Making purchase, Cacluating how much stock woth it in case all sold out, Using Python.
+  desc: This project is my project. Stock dictionary for a supermarket , Making purchase, Cacluating how much stock woth it in case all sold out, Using Python.
   
- - name: Gallery
+- name: Gallery
   i18n: gallery
   gh_user: AJ888
   repo: Gallery
   img: /static/assets/img/landing/boot2.png
-  desc: This project is my project. I used HTML, CSS ,Bootstrap and can be used as portfolio template.
+  desc: This project is my project. I used HTML, CSS, Bootstrap and can be used as portfolio template.
 
 - name: LandingPage
   i18n: landing page
