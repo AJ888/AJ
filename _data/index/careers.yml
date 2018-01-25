@@ -2,7 +2,7 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Accenture @ Facebook
-    #i18n: company_a
+    i18n: Accenture
   desc:
     detail: Review ads and classify according to policy, Provide feedback on ads classification trends, General data entry related tasks and Provide suggestions to improve the process and workflows.
            
