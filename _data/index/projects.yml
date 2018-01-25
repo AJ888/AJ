@@ -6,14 +6,14 @@
   gh_user: AJ888
   repo: Gallery
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use HTML, CSS ,Bootstrap and can be used as portfolio template.
+  desc: This project is my project. I used HTML, CSS ,Bootstrap and can be used as portfolio template.
 
 - name: LandingPage
   i18n: landing page
   gh_user: AJ888
   repo : LandingPage
   img: /static/assets/img/landing/python.png
-  desc: This project is my project. I use HTML, CSS, Bootstrap and can be used as Landing page template.
+  desc: This project is my project. I used HTML, CSS, Bootstrap and can be used as Landing page template.
 
 #- name: Google
 #  i18n: google
