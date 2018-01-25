@@ -4,13 +4,13 @@
     detail: Accenture @ Facebook
     i18n: company_a
   desc:
-    detail:<ul>
+    detail:
              <li>Review ads and classify according to policy.</li>
              <li>Provide feedback on ads classification trends.</li>
              <li>General data entry related tasks.</li>
              <li>Provide suggestions to improve the process and workflows.</li>
-           </ul>
-    i18n: company_a_desc
+           
+    #i18n: company_a_desc
   date:
     detail: Nov. 2017- Present
     i18n: company_a_date
