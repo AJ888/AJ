@@ -6,7 +6,7 @@
   i18n: IFPWAFCAD
   gh_user: AJ888
   repo: IFPWAFCAD
-  img: /static/assets/img/landing/jee.png
+  img: /static/assets/img/landing/jee.jpg
   desc: This project is my project. Web application project used Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
 
 - name: JSP
