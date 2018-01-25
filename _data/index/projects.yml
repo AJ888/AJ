@@ -35,3 +35,10 @@
   repo : IFPWAFCAD
   img: /static/assets/img/landing/boot2.png
   desc: This project is my project. Web application project used Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
+  
+- name: SuperMarket
+  i18n: Python
+  gh_user: AJ888
+  repo : SuperMarket
+  img: /static/assets/img/landing/python.png
+  desc: This project is my project. Stock dictonary for supermarket , Stock dictionary, Making purchase, Cacluating how much stock woth in case all sold, Using  Pythong
