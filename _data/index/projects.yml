@@ -8,7 +8,7 @@
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use HTML, CSS ,Bootstrap and can be used as portfolio template.
 
-- name: Landing page
+- name: LandingPage
   i18n: landing page
   gh_user: AJ888
   repo : LandingPage
