@@ -5,7 +5,7 @@
   i18n: gallery
   gh_user: AJ888
   repo: Gallery
-  img: /static/assets/img/landing/bootstrap-logo.png
+  img: /static/assets/img/landing/
   desc: This project is my project. I used HTML, CSS ,Bootstrap and can be used as portfolio template.
 
 - name: LandingPage
