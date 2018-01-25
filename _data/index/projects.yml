@@ -15,8 +15,9 @@
   img: /static/assets/img/landing/boot2.png
   desc: This project is my project. I used HTML, CSS, Bootstrap and can be used as Landing page template.
 
-#- name: Google
-#  i18n: google
-#  url: https://google.com
-#  img: /static/assets/img/landing/google.png
-#  desc: This is another project.
+- name: JSP
+  i18n: JSP/JEE/NetBeans
+  gh_user: AJ888
+  repo : JSP-NetBeans-JavaEE
+  img: /static/assets/img/landing/boot2.png
+  desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), using JSP $ NetBeans.
