@@ -22,11 +22,11 @@
   img: /static/assets/img/landing/boot2.png
   desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), using JSP & NetBeans.
 
-- name: GradeBook
+- name: GradBook
   i18n: Python
   gh_user: AJ888
-  repo : GradeBook
-  img: /static/assets/img/landing/boot2.png
+  repo : GradBook
+  img: /static/assets/img/landing/python.png
   desc: This project is my project. Gradebook for students creating lists, dictionary, letter for grade, caclulate average, used Python.
   
 - name: IFPWAFCAD
