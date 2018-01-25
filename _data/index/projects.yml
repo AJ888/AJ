@@ -5,14 +5,14 @@
   i18n: gallery
   gh_user: AJ888
   repo: Gallery
-  img: /static/assets/img/landing/boot1.png
+  img: /static/assets/img/landing/boot2.png
   desc: This project is my project. I used HTML, CSS ,Bootstrap and can be used as portfolio template.
 
 - name: LandingPage
   i18n: landing page
   gh_user: AJ888
   repo : LandingPage
-  img: /static/assets/img/landing/boot1.png
+  img: /static/assets/img/landing/boot2.png
   desc: This project is my project. I used HTML, CSS, Bootstrap and can be used as Landing page template.
 
 #- name: Google
