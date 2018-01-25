@@ -20,4 +20,18 @@
   gh_user: AJ888
   repo : JSP-NetBeans-JavaEE
   img: /static/assets/img/landing/boot2.png
-  desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), using JSP $ NetBeans.
+  desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), using JSP & NetBeans.
+
+- name: JSP
+  i18n: JSP/JEE/NetBeans
+  gh_user: AJ888
+  repo : JSP-NetBeans-JavaEE
+  img: /static/assets/img/landing/boot2.png
+  desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), used JSP & NetBeans.
+  
+- name: IFPWAFCAD
+  i18n: IFPWAFCAD
+  gh_user: AJ888
+  repo : IFPWAFCAD
+  img: /static/assets/img/landing/boot2.png
+  desc: This project is my project. Web application project used Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
