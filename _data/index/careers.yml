@@ -6,7 +6,7 @@
   desc:
     detail: Review ads and classify according to policy, Provide feedback on ads classification trends, General data entry related tasks and Provide suggestions to improve the process and workflows.
            
-    #i18n: company_a_desc
+    i18n: company_a_desc
   date:
     detail: Nov. 2017- Present
     i18n: company_a_date
