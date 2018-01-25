@@ -22,12 +22,12 @@
   img: /static/assets/img/landing/boot2.png
   desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), using JSP & NetBeans.
 
-- name: JSP
-  i18n: JSP/JEE/NetBeans
+- name: GradeBook
+  i18n: Python
   gh_user: AJ888
-  repo : JSP-NetBeans-JavaEE
+  repo : GradeBook
   img: /static/assets/img/landing/boot2.png
-  desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), used JSP & NetBeans.
+  desc: This project is my project. Gradebook for students creating lists, dictionary, letter for grade, caclulate average, used Python.
   
 - name: IFPWAFCAD
   i18n: IFPWAFCAD
