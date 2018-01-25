@@ -32,7 +32,7 @@
     detail: Rainforest Partnership
     i18n: company_a
   desc:
-    detail: I worked at Rainforest Partnership ...
+    detail: <ul><li>Created and updated websites with WordPress.</li> <li>Developed new features and functions for websites.</li> <li>Used and customized third-party plugins as needed.</li>  <li>Created back up files.</li></ul>
     i18n: company_a_desc
   date:
     detail: Aug. 2016- Aug. 2017
