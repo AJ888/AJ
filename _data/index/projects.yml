@@ -1,7 +1,35 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Gallery
+- name: IFPWAFCAD
+  i18n: IFPWAFCAD
+  gh_user: AJ888
+  repo : IFPWAFCAD
+  img: /static/assets/img/landing/boot2.png
+  desc: This project is my project. Web application project used Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
+
+- name: JSP
+  i18n: JSP/JEE/NetBeans
+  gh_user: AJ888
+  repo : JSP-NetBeans-JavaEE
+  img: /static/assets/img/landing/boot2.png
+  desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), using JSP & NetBeans.
+ 
+- name: GradBook
+  i18n: Python
+  gh_user: AJ888
+  repo : GradBook
+  img: /static/assets/img/landing/python.png
+  desc: This project is my project. Gradebook for students creating lists, dictionary, letter for grade, caclulate average, used Python.
+  
+- name: SuperMarket
+  i18n: Python
+  gh_user: AJ888
+  repo : SuperMarket
+  img: /static/assets/img/landing/python.png
+  desc: This project is my project. Stock dictonary for supermarket , Making purchase, Cacluating how much stock woth it in case all sold out, Using Python.
+  
+ - name: Gallery
   i18n: gallery
   gh_user: AJ888
   repo: Gallery
@@ -13,32 +41,4 @@
   gh_user: AJ888
   repo : LandingPage
   img: /static/assets/img/landing/boot2.png
-  desc: This project is my project. I used HTML, CSS, Bootstrap and can be used as Landing page template.
-
-- name: JSP
-  i18n: JSP/JEE/NetBeans
-  gh_user: AJ888
-  repo : JSP-NetBeans-JavaEE
-  img: /static/assets/img/landing/boot2.png
-  desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), using JSP & NetBeans.
-
-- name: GradBook
-  i18n: Python
-  gh_user: AJ888
-  repo : GradBook
-  img: /static/assets/img/landing/python.png
-  desc: This project is my project. Gradebook for students creating lists, dictionary, letter for grade, caclulate average, used Python.
-  
-- name: IFPWAFCAD
-  i18n: IFPWAFCAD
-  gh_user: AJ888
-  repo : IFPWAFCAD
-  img: /static/assets/img/landing/boot2.png
-  desc: This project is my project. Web application project used Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
-  
-- name: SuperMarket
-  i18n: Python
-  gh_user: AJ888
-  repo : SuperMarket
-  img: /static/assets/img/landing/python.png
-  desc: This project is my project. Stock dictonary for supermarket , Making purchase, Cacluating how much stock woth it in case all sold out, Using  Pythong
+  desc: This project is my project. I used HTML, CSS, Bootstrap and can be used as Landing page template. 
