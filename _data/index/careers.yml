@@ -46,7 +46,7 @@
     detail: HostGator
     i18n: company_a
   desc:
-    detail: <ul><li>Front line support via live chat.</li> <li>Troubleshooted a variety of technical issues customers are having with their web hosting and website developing such as (FTP, DNS, cPanel and WHM,Wordpress...).</li> <li> Installed, configured, and maintained services such as Apache, MySQL.</li></ul>
+    detail: <ul><li>Front line support via live chat.</li> <li>Troubleshooted a variety of technical issues customers are having with their web hosting and website developing such as (FTP, DNS, cPanel and WHM,Wordpress...).</li> <li> Installed, configured, and maintained services such as Apache, MySQL .</li></ul>
     i18n: company_a_desc
   date:
     detail: Jun. 2015- Sep. 2015
