@@ -7,39 +7,33 @@
   gh_user: AJ888
   repo: IFPWAFCAD
   img: /static/assets/img/landing/jee.jpg
-  desc: This project is my project. Web application project used Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
+  desc: Web application project used Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
 
 - name: JSP
   i18n: JSP/JEE/NetBeans
   gh_user: AJ888
   repo : JSP-NetBeans-JavaEE
   img: /static/assets/img/landing/jsp.png
-  desc: This project is my project. Web application project build and establish Java EE (Enterprise Edition), using JSP & NetBeans.
+  desc: Web application project build and establish Java EE (Enterprise Edition), used JSP & NetBeans.
  
-- name: GradBook
+- name: Interactive_Dictionary
   i18n: Python
   gh_user: AJ888
-  repo : GradBook
+  repo : Interactive_Dictionary
   img: /static/assets/img/landing/python.png
-  desc: This project is my project. Gradebook for students creating lists, dictionary, letter for grade, caclulate average, used Python.
+  desc: Interactive dctionary application used (Python and JSON)
   
-- name: SuperMarket
+- name: Information Structures with Python
   i18n: Python
   gh_user: AJ888
-  repo : SuperMarket
+  repo : Information_Structure_Python
   img: /static/assets/img/landing/python.png
-  desc: This project is my project. Stock dictionary for a supermarket , Making purchase, Cacluating how much stock woth it in case all sold out, Using Python.
+  desc: MET-CS 521 Information structures with python first course towards the M.S in software development at (Boston University).
   
-- name: Gallery
-  i18n: gallery
-  gh_user: AJ888
-  repo: Gallery
-  img: /static/assets/img/landing/boot2.png
-  desc: This project is my project. I used HTML, CSS, Bootstrap and can be used as portfolio template.
+# name: Gallery
+# i18n: gallery
+# gh_user: AJ888
+# repo: Gallery
+# img: /static/assets/img/landing/boot2.png
+# desc: This project is my project. I used HTML, CSS, Bootstrap and can be used as portfolio template.
 
-- name: LandingPage
-  i18n: landing page
-  gh_user: AJ888
-  repo : LandingPage
-  img: /static/assets/img/landing/boot2.png
-  desc: This project is my project. I used HTML, CSS, Bootstrap and can be used as Landing page template. 
