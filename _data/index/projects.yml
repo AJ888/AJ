@@ -31,7 +31,7 @@
   desc: MET-CS 521 Information structures with python first course towards the M.S in software development at (Boston University).
   
   
-- name: Geocoding(Latitude&Logitude)
+- name: Geocoding(Latitude&Longitude)
   i18n: Python
   gh_user: AJ888
   repo : Geocoding_Address
