@@ -26,9 +26,10 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc : <p>Hello, My name is Ammar Jirjees, I am Software Engineer living in Austin, Texas.<br>
-            I'am currently a student at Boston University majoring in the master of science in software development.<br>
-            Life is a continuous learning process, so work makes me more rigorous, coding makes my life more colorful and meaningful.</p>
+  desc : <p>Hello, My name is Ammar Jirjees, I am Software Engineer living in Austin, Texas.
+            I'm currently a student at Boston University majoring in the master of science in software development,<br> 
+            and I have a bachelor degree in software engineering.
+            </p>
 
 
 # comment
