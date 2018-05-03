@@ -7,7 +7,10 @@
   gh_user: AJ888
   repo: IFPWAFCAD
   img: /static/assets/img/landing/jee.jpg
-  desc: Web application project used Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
+  desc: Java web application communicates directly with a MySQL using the Java Database Connectivity API.<br>
+        Essentially, it is the MySQL Connector/J JDBC Driver that enables communication between,<br>
+        the Java code understood by the application server (the GlassFish server).<br>
+        <em>Technologies</em>: - Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS.
 
 - name: JSP
   i18n: JSP/JEE/NetBeans
