@@ -10,27 +10,13 @@
   desc: Java web application communicates directly with a MySQL using the Java Database
         Connectivity API. Essentially, it is the MySQL Connector/J JDBC Driver that enables communication between the Java code understood by the application server (the GlassFish server).
         Technologies (Java/JEE, MYSQL, NetBeans, GlassFish Server, JSP, JSTL, JDBC, JNDI, HTML, CSS).
-
-- name: JSP
-  i18n: JSP/JEE/NetBeans
-  gh_user: AJ888
-  repo : JSP-NetBeans-JavaEE
-  img: /static/assets/img/landing/jsp.png
-  desc: Web application project build and establish Java EE (Enterprise Edition), used JSP & NetBeans.
  
 - name: Interactive_Dictionary
   i18n: Python
   gh_user: AJ888
   repo : Interactive_Dictionary
   img: /static/assets/img/landing/python.png
-  desc: Interactive dctionary application used (Python and JSON)
-  
-#- name: Information Structures with Python
-#  i18n: Python
-#  gh_user: AJ888
-#  repo : Information_Structure_Python
-#  img: /static/assets/img/landing/python.png
-#  desc: MET-CS 521 Information structures with python first course towards the M.S in software development at (Boston University).
+  desc: The application running through the terminal, types a word in the application,and the application returns definition of this word. Technologies (Python 3, JSON).
   
   
 - name: Geocoding(Latitude&Longitude)
