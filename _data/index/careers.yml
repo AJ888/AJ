@@ -1,30 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Facebook
+    detail: Austin Community College
     i18n: company_a
   desc:
-    detail: <ul><li>Review ads and classify according to policy.</li> <li>Provide feedback on ads classification trends.</li> <li>General data entry related tasks.</li>  <li>Provide suggestions to improve the process and workflows.</li></ul>
+    detail: <ul><li>Creating and updating websites with WordPress platform.</li> <li>Ensuring high-performance and availability and managing all technical aspects of the CMS.</li> <li>Establishing and guiding the website’s architecture.</li> <li>Using and customizing third-party plugins as needed e.g. (Eevent Espresso).</li></ul>
     i18n: company_a_desc
   date:
-    detail: Nov. 2017- Present
+    detail:2018 - Present
     i18n: company_a_date
   job:
-    detail: Contingent Worker
-    i18n: company_a_job
-  icon: fa-plus-square
-  
-- name:
-    detail: GreenStream International
-    i18n: company_a
-  desc:
-    detail: <ul><li>Designed and developed a different software product to unlock and flash all android devices.</li>  <li>Performed body repairs such as repairing a cracked or scratched screen or replace buttons on the keypad.</li>  <li>Troubleshooted problems in the phone's programming to find errors.</li> </ul>
-    i18n: company_a_desc
-  date:
-    detail: Feb. 2017- Nov. 2017
-    i18n: company_a_date
-  job:
-    detail: Repair Tech.
+    detail: Web Developer
     i18n: company_a_job
   icon: fa-plus-square
   
@@ -32,10 +18,10 @@
     detail: Rainforest Partnership
     i18n: company_a
   desc:
-    detail: <ul><li>Created and updated websites with WordPress.</li> <li>Developed new features and functions for websites.</li> <li>Used and customized third-party plugins as needed.</li>  <li>Created back up files.</li></ul>
+    detail: <ul><li>Designed and implemented new features and functionality e.g. (donate, event registration).</li> <li>Created and maintained MySQL database in cPanel.</li> <li>Used and customized third-party plugins as needed e.g. (Yoast SEO).</li></ul>
     i18n: company_a_desc
   date:
-    detail: Aug. 2016- Aug. 2017
+    detail:2016 - 2017
     i18n: company_a_date
   job:
     detail: Web Developer
@@ -46,12 +32,12 @@
     detail: HostGator
     i18n: company_a
   desc:
-    detail: <ul><li>Front line support via live chat.</li> <li>Troubleshooted a variety of technical issues customers are having with their web hosting and website developing such as (FTP, DNS, cPanel and WHM,Wordpress...).</li> <li> Installed, configured, and maintained services such as Apache, MySQL .</li></ul>
+    detail: <ul><li>Provided technical support to customers via live chat.</li> <li>Provided fellow system administrators with technical support and guidance.</li> <li>Installed, configured, and maintained services such as Apache, MySQL, and Exim across thousands of servers.</li></ul>
     i18n: company_a_desc
   date:
-    detail: Jun. 2015- Sep. 2015
+    detail:2015 - 2015
     i18n: company_a_date
   job:
-    detail: Junior System Administartor 
+    detail:System Administartor 
     i18n: company_a_job
   icon: fa-plus-square
