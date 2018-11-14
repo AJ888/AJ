@@ -4,7 +4,7 @@
     detail: City of Austin
     i18n: company_a
   desc:
-    detail: <ul><li>Working on bug fixing and improving application performance.</li> <li>Designing and developing high-volume, low-latency applications for mission-critical systems.</li> <li> Collaborating with team members to optimize viable solutions.</li> <li>Using HTML, JavaScript, CSS, CFC/CFML, JQuery, Clojure, AJAX, Leinigen under Linux operating system.</li></ul> 
+    detail: <ul><li>Working on bug fixing and improving application performance.</li> <li>Designing and developing high-volume, low-latency applications for mission-critical systems.</li> <li> Collaborating with team members to optimize viable solutions.</li> <li>Using HTML, JavaScript, CSS, ColdFusion, JQuery, Clojure, AJAX, Leinigen under Linux operating system.</li></ul> 
     i18n: company_a_desc
   date:
     detail: 2018 - Present
